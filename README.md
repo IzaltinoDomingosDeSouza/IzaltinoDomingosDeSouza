@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IzaltinoDomingosDeSouza
+- 👀 I’m interested in learning java, csharp, webdev, and others programming langauge
+- 🌱 I’m currently learning java and webdev
+- 💞️ I’m looking to collaborate on open source projects
