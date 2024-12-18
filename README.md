@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @IzaltinoDomingosDeSouza
-- 👀 I’m interested in learning java, csharp, webdev, and others programming languages
+- 👀 I'm interested in learning game (engine) programming, focusing on languages like C++ and C#, while also exploring Java and other programming languages
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on open source projects
